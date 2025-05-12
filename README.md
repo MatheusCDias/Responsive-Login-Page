@@ -26,3 +26,12 @@ This is a simple login screen built with **React** and **Tailwind CSS**. It feat
 
 ```bash
 git clone https://github.com/MatheusCDias/Responsive-Login-Page.git
+````
+2. Clone the repository:
+```bash
+npm install
+```
+3. Start the development server:
+```bash
+npm run dev
+```
